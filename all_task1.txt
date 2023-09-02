@@ -1,0 +1,11 @@
+Task1.1 Hello Gru
+printint gru
+
+Task1.2 Counting Down
+loop
+
+Task1.3 Task Manager
+Dealing with string
+
+Task1.4 Kalman Missile
+best optimal solution using kalman filter
