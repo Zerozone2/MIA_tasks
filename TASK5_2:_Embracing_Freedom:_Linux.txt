@@ -1,0 +1,27 @@
+TASK5_2:_Embracing_Freedom:_Linux
+
+All git staff has been done WSL ubuntu not linux
+
+Using commands:
+
+cd .
+cd ..
+cd /
+cd ~
+pwd
+pushd
+touch file1.txt
+vi file2.txt
+echo "ok" > file1.txt
+usinf 2> for stderror
+cat fil1.txt
+ls
+ls -a
+pushd /.
+chmod 777 file1.txt
+rm 
+rm -r 
+rm -rf %hidden file name%
+rm -i
+mkdir
+grep
